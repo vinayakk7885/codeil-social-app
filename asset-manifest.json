@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeil-social-app/static/css/main.d1ae2886.css",
+    "main.js": "/codeil-social-app/static/js/main.b05b9ec0.js",
+    "index.html": "/codeil-social-app/index.html",
+    "main.d1ae2886.css.map": "/codeil-social-app/static/css/main.d1ae2886.css.map",
+    "main.b05b9ec0.js.map": "/codeil-social-app/static/js/main.b05b9ec0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ae2886.css",
+    "static/js/main.b05b9ec0.js"
+  ]
+}
